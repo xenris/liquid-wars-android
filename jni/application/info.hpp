@@ -1,5 +1,6 @@
 //    This file is part of Liquid Wars.
 //
+//    Copyright (C) 2014 Austin Hartzheim (austin@austinhartzheim.me)
 //    Copyright (C) 2013 Henry Shepperd (hshepperd@gmail.com)
 //
 //    Liquid Wars is free software: you can redistribute it and/or modify
@@ -23,7 +24,7 @@
 #define NUMBER_OF_TEAMS 6
 #define TIMESTEP 8000
 #define AI_UPDATE_SPEED 30
-#define NUMBER_OF_MAPS 46
+#define NUMBER_OF_MAPS 50
 
 class Info {
     public:

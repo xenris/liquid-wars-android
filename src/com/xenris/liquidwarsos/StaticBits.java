@@ -1,5 +1,6 @@
 //    This file is part of Liquid Wars.
 //
+//    Copyright (C) 2014 Austin Hartzheim (austin@austinhartzheim.me)
 //    Copyright (C) 2013 Henry Shepperd (hshepperd@gmail.com)
 //
 //    Liquid Wars is free software: you can redistribute it and/or modify
@@ -34,7 +35,7 @@ public class StaticBits {
     public static final int VERSION_CODE = 11;
     public static final int NUMBER_OF_TEAMS = 6;
     public static final int AI_PLAYER = -1;
-    public static final int NUMBER_OF_MAPS = 46;
+    public static final int NUMBER_OF_MAPS = 50;
     public static final int PORT_NUMBER = 51055;
     public static final int GAME_SPEED = 7000;
     public static final int RESEND_STEPS = 0x70;
