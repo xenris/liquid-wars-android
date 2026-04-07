@@ -16,6 +16,7 @@
             android:layout_height="wrap_content"
             android:paddingTop="10sp"
             android:text="@string/instructions_one"
+            android:textColor="#000000"
             android:textSize="15sp" />
 
         <TextView
@@ -23,6 +24,7 @@
             android:layout_height="wrap_content"
             android:paddingTop="10sp"
             android:text="@string/instructions_two"
+            android:textColor="#000000"
             android:textSize="15sp" />
 
     </LinearLayout>
